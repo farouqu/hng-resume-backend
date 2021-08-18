@@ -1,0 +1,16 @@
+html{
+  scroll-behavior: smooth;
+}
+body{
+  font-family: 'Roboto', sans-serif;
+  scroll-behavior: smooth;
+}
+
+.title{
+  font-weight: bold;
+}
+
+.sponsor{
+  width: 50px;
+  height: 50px;
+}
