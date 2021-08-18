@@ -1,6 +1,6 @@
 # HNG Stage 2 Backend Task
-![HNG](./img/hng.png)
-![Zuri](./img/zuri.png)
+![HNG](./public/img/hng.png)
+![Zuri](./public/img/zuri.png)
 
 ## Compulsory task
 The compulsory name printing task can be accessed [here](./print-name.py)
