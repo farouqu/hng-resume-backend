@@ -29,7 +29,6 @@ app.post("/submit-form", (req, res) => {
     if (err) {
       return console.log(err.message);
     }
-    // get the last insert id
     console.log(`A row has been inserted with rowid ${this.lastID}`);
   });
 
